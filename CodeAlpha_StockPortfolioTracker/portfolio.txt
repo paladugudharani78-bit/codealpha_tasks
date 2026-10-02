@@ -1,0 +1,5 @@
+STOCK PORTFOLIO SUMMARY
+========================
+TSLA | Quantity: 5 | Price: $250 | Investment: $1250
+------------------------
+Total Investment: $1250
